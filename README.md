@@ -1,1 +1,1 @@
-GO TO THE DIORAMA SCENE TO SEE THE SCENE I USED IN MY VIDEOES AND SCREENSHOTS
+GO TO THE InterCGLab2 folder to find the Diorama scene and the post processing shader effects
